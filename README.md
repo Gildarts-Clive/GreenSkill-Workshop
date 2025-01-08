@@ -1,1 +1,1 @@
-# GreenSkill-Workshop
+# GreenSkill-AI-Workshop
